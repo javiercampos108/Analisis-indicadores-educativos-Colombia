@@ -58,8 +58,11 @@ El informe contiene cinco páginas:
 5. Análisis de Tolima e Ibagué.
 
 ### Vista previa
+![Pandemia](04_Capturas/01_Portada.png)
 
 ![Panorama nacional](04_Capturas/02_Panorama_Nacional.png)
+
+![Pandemia](04_Capturas/03_Pandemia.png)
 
 ![Análisis de departamentos](04_Capturas/04_Departamentos.png)
 
