@@ -1,4 +1,4 @@
-# 🇨🇴 Análisis de Indicadores Educativos en Colombia
+# Análisis de Indicadores Educativos en Colombia
 
 **Proyecto formativo SENA | Python · Pandas · NumPy · Google Colab · Power BI**
 
