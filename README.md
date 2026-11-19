@@ -14,7 +14,7 @@ Análisis de indicadores del sector educativo colombiano a partir de las estadí
 - Identificar diferencias entre departamentos y municipios.
 - Analizar el contexto educativo de Tolima e Ibagué.
 
-## Tecnologías
+## Herramientas utilizadas
 
 | Tecnología | Uso |
 |---|---|
@@ -24,6 +24,19 @@ Análisis de indicadores del sector educativo colombiano a partir de las estadí
 | Google Colab | Desarrollo del notebook |
 | Power BI | Análisis y visualización |
 | Excel | Exportación y consulta de datos |
+
+## Competencias desarrolladas
+
+Durante el desarrollo de este proyecto se aplicaron y fortalecieron las siguientes competencias:
+
+- **Limpieza y transformación de datos:** depuración, estandarización y preparación de datos utilizando Python.
+- **Análisis de datos con Pandas y NumPy:** manipulación de estructuras de datos, conversión de variables y tratamiento de valores nulos.
+- **Validación de calidad de datos:** identificación de duplicados, revisión de inconsistencias y comprobación de integridad de los registros.
+- **Análisis exploratorio de datos (EDA):** identificación de patrones, tendencias y diferencias en los indicadores educativos.
+- **Visualización de datos:** diseño de dashboards interactivos en Power BI para presentar información de manera clara.
+- **Análisis comparativo:** evaluación de indicadores educativos entre años, departamentos y municipios.
+- **Comunicación de resultados:** presentación de hallazgos mediante visualizaciones y documentación técnica.
+- **Documentación y control de versiones:** organización de archivos y publicación del proyecto en GitHub.
 
 ## Fuente de los datos
 
