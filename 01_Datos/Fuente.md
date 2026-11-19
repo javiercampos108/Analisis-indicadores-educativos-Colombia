@@ -6,7 +6,7 @@
 - **Portal de descarga:** [https://www.datos.gov.co/Educaci-n/MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR-B-SICA/nudc-7mev/about_data]
 - **Archivo original:** `MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR,_BÁSICA_Y_MEDIA_POR_MUNICIPIO_20261031.csv`
 - **Cobertura:** 2011 a 2024, por municipio (1.122 municipios por año)
-- **Licencia:** [consultar la licencia en el portal del MEN]
+- **Licencia:** [https://creativecommons.org/licenses/by-sa/4.0/legalcode]
 
 ### Cartografía
 - **Límites departamentales:** DANE, Marco Geoestadístico Nacional 2025.
