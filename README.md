@@ -32,7 +32,6 @@ Análisis de indicadores del sector educativo colombiano a partir de las estadí
 - **Portal de descarga:** [https://www.datos.gov.co/Educaci-n/MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR-B-SICA/nudc-7mev]
 - **Archivo original:** `MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR,_BÁSICA_Y_MEDIA_POR_MUNICIPIO_20261031.csv`
 - **Cobertura:** 2011 a 2024, por municipio.
-- **Licencia:** [consultar en el portal del MEN]
 
 Los límites departamentales del mapa vienen del DANE (Marco Geoestadístico Nacional 2025), simplificados a partir de [ytolosa/mapas-colombia](https://github.com/ytolosa/mapas-colombia), bajo licencia CC BY 4.0.
 
