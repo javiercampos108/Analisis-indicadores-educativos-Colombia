@@ -122,4 +122,4 @@ Aplicar herramientas de programación y Business Intelligence para transformar d
 
 ## Autoría
 
-Proyecto formativo desarrollado en el SENA por Javier Andrés Campos Ariza 
+Proyecto de análisis de datos por Javier Andrés Campos Ariza 
