@@ -30,7 +30,7 @@ Análisis de indicadores del sector educativo colombiano a partir de las estadí
 - **Entidad:** Ministerio de Educación Nacional (MEN), Colombia.
 - **Conjunto:** Estadísticas en educación en preescolar, básica y media por municipio.
 - **Portal de descarga:** [https://www.datos.gov.co/Educaci-n/MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR-B-SICA/nudc-7mev]
-- **Archivo original:** `MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR,_BÁSICA_Y_MEDIA_POR_MUNICIPIO_20261031.csv`
+- **Archivo original:** `MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR,_BÁSICA_Y_MEDIA_POR_MUNICIPIO_20261118.csv`
 - **Cobertura:** 2011 a 2024, por municipio.
 
 Los límites departamentales del mapa vienen del DANE (Marco Geoestadístico Nacional 2025), simplificados a partir de [ytolosa/mapas-colombia](https://github.com/ytolosa/mapas-colombia), bajo licencia CC BY 4.0.
