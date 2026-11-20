@@ -59,7 +59,7 @@ Los límites departamentales del mapa vienen del DANE (Marco Geoestadístico Nac
 
 ### Archivo de Power BI
 
-📊 **[Descargar dashboard – Analizador de Indicadores Educativos en Colombia](03_PowerBI/Analizador%20de%20Indicadores%20educativos%20en%20Colombia.pbix)**
+**[Descargar dashboard – Analizador de Indicadores Educativos en Colombia](03_PowerBI/Analizador%20de%20Indicadores%20educativos%20en%20Colombia.pbix)**
 
 Para visualizar el proyecto, descarga el archivo `.pbix` y ábrelo con Power BI Desktop.
 
