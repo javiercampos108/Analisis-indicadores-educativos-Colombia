@@ -103,6 +103,8 @@ El detalle de cada punto está en la hoja `Notas` del Excel.
 5. Ejecuta todas las celdas. Debes ver 15.707 filas originales, 15.704 finales y 21.124 vacíos.
 
 El resultado queda en `01_Datos/MEN_ESTADISTICAS_LIMPIO`, con la base en la hoja `Datos` y los avisos en la hoja `Notas`.
+**[Resultado final base de datos limpia](01_Datos/MEN_ESTADISTICAS_LIMPIO.xlsx)**
+
 
 ## Dashboard
 
