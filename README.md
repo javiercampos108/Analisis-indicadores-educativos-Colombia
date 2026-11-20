@@ -92,6 +92,7 @@ Ningún valor que tenía dato en la fuente cambió de número.
 - **Alcance:** la base mide solo la población de 5 a 16 años, no la población total del país.
 
 El detalle de cada punto está en la hoja `Notas` del Excel.
+**[Descargar Hoja de Excel con la base de datos limpia y notas de cada detalle](01_Datos/MEN_ESTADISTICAS_LIMPIO.xlsx)**
 
 ## Cómo reproducir el análisis
 
