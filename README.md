@@ -67,7 +67,7 @@ El archivo contiene la base de datos limpia y organizada para su consulta y util
 
 El proceso de limpieza, transformación y validación se desarrolló en Google Colab utilizando Python, Pandas y NumPy.
 
-**[Ver notebook de limpieza y transformación en GitHub](02_Python/Limpieza_Dataset_Indicadores_Educativos.ipynb)**
+**[Ver notebook de limpieza y transformación](02_Python/Limpieza_Dataset_Indicadores_Educativos.ipynb)**
 
 Para reproducir el análisis:
 
